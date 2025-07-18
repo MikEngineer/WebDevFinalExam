@@ -1,0 +1,476 @@
+[
+    {
+        "id": 1,
+        "name": "Patatine Fritte",
+        "category": "Antipasti",
+        "price": "3.00"
+    },
+    {
+        "id": 2,
+        "name": "Patatine Bacon Croccante E Cheddar",
+        "category": "Antipasti",
+        "price": "5.00"
+    },
+    {
+        "id": 3,
+        "name": "Pan Crudo",
+        "category": "Antipasti",
+        "price": "8.00"
+    },
+    {
+        "id": 4,
+        "name": "Antipasto Caldo",
+        "category": "Antipasti",
+        "price": "6.00"
+    },
+    {
+        "id": 5,
+        "name": "Tagliere Di Salumi E Formaggi",
+        "category": "Antipasti",
+        "price": "14.00"
+    },
+    {
+        "id": 6,
+        "name": "Cocktail Di Gamberi",
+        "category": "Antipasti",
+        "price": "10.00"
+    },
+    {
+        "id": 7,
+        "name": "Focaccia Al Limone",
+        "category": "Antipasti",
+        "price": "5.00"
+    },
+    {
+        "id": 8,
+        "name": "Pane 'Cunzato'",
+        "category": "Antipasti",
+        "price": "10.00"
+    },
+    {
+        "id": 9,
+        "name": "Bruschette Di Pomodoro E Alici",
+        "category": "Antipasti",
+        "price": "7.00"
+    },
+    {
+        "id": 10,
+        "name": "Cannolo Rolls",
+        "category": "Antipasti",
+        "price": "10.00"
+    },
+    {
+        "id": 11,
+        "name": "Frittura Di Totani E Gamberi",
+        "category": "Antipasti",
+        "price": "16.00"
+    },
+    {
+        "id": 12,
+        "name": "Pepata Di Cozze Alla Marinara",
+        "category": "Antipasti",
+        "price": "10.00"
+    },
+    {
+        "id": 13,
+        "name": "Bufalotto",
+        "category": "Antipasti",
+        "price": "10.00"
+    },
+    {
+        "id": 14,
+        "name": "Salsicciotto Goloso",
+        "category": "Antipasti",
+        "price": "10.00"
+    },
+    {
+        "id": 15,
+        "name": "Paccheri Alla Norma Di Pesce",
+        "category": "Primi",
+        "price": "13.00"
+    },
+    {
+        "id": 16,
+        "name": "Pappardelle Montagnola",
+        "category": "Primi",
+        "price": "10.00"
+    },
+    {
+        "id": 17,
+        "name": "Spaghetti Alle Vongole",
+        "category": "Primi",
+        "price": "14.00"
+    },
+    {
+        "id": 18,
+        "name": "Busiate Contadine",
+        "category": "Primi",
+        "price": "9.00"
+    },
+    {
+        "id": 19,
+        "name": "Paccheri Al Gambero",
+        "category": "Primi",
+        "price": "14.00"
+    },
+    {
+        "id": 20,
+        "name": "Spaghetti Alla Norma",
+        "category": "Primi",
+        "price": "8.00"
+    },
+    {
+        "id": 21,
+        "name": "Farfalle Al Salmone",
+        "category": "Primi",
+        "price": "8.00"
+    },
+    {
+        "id": 22,
+        "name": "Busiate Selvagge",
+        "category": "Primi",
+        "price": "10.00"
+    },
+    {
+        "id": 23,
+        "name": "Risotto Goloso",
+        "category": "Primi",
+        "price": "12.00"
+    },
+    {
+        "id": 24,
+        "name": "Risotto Ai Sapori Di Mare",
+        "category": "Primi",
+        "price": "14.00"
+    },
+    {
+        "id": 25,
+        "name": "Pappardelle Ai Porcini",
+        "category": "Primi",
+        "price": "10.00"
+    },
+    {
+        "id": 26,
+        "name": "Spaghetti Allo Scoglio",
+        "category": "Primi",
+        "price": "15.00"
+    },
+    {
+        "id": 27,
+        "name": "Pappardelle Alla Bolognese",
+        "category": "Primi",
+        "price": "8.00"
+    },
+    {
+        "id": 28,
+        "name": "Paccheri Alla Marinara",
+        "category": "Primi",
+        "price": "18.00"
+    },
+    {
+        "id": 29,
+        "name": "Tagliata Di Pollo",
+        "category": "Secondi",
+        "price": "8.00"
+    },
+    {
+        "id": 30,
+        "name": "Bistecca Panata Alla Palermitana",
+        "category": "Secondi",
+        "price": "12.00"
+    },
+    {
+        "id": 31,
+        "name": "Pollo Grigliato",
+        "category": "Secondi",
+        "price": "8.00"
+    },
+    {
+        "id": 32,
+        "name": "Tagliata Di Manzo",
+        "category": "Secondi",
+        "price": "16.00"
+    },
+    {
+        "id": 33,
+        "name": "Vegetariano",
+        "category": "Secondi",
+        "price": "8.00"
+    },
+    {
+        "id": 34,
+        "name": "Pesce Spada Alla Brace",
+        "category": "Secondi",
+        "price": "13.00"
+    },
+    {
+        "id": 35,
+        "name": "Pesce Spada Panato",
+        "category": "Secondi",
+        "price": "13.00"
+    },
+    {
+        "id": 36,
+        "name": "Delizie Di Mare",
+        "category": "Secondi",
+        "price": "22.00"
+    },
+    {
+        "id": 37,
+        "name": "Caesar Salad",
+        "category": "Insalate",
+        "price": "8.00"
+    },
+    {
+        "id": 38,
+        "name": "Insalata Ranch",
+        "category": "Insalate",
+        "price": "8.00"
+    },
+    {
+        "id": 39,
+        "name": "Insalata Greca",
+        "category": "Insalate",
+        "price": "8.00"
+    },
+    {
+        "id": 40,
+        "name": "Insalata Kebab",
+        "category": "Insalate",
+        "price": "8.00"
+    },
+    {
+        "id": 41,
+        "name": "Caprese Alla Bufala",
+        "category": "Insalate",
+        "price": "12.00"
+    },
+    {
+        "id": 42,
+        "name": "Kebab",
+        "category": "Panini",
+        "price": "7.00"
+    },
+    {
+        "id": 43,
+        "name": "Chicken Sandwich",
+        "category": "Panini",
+        "price": "6.00"
+    },
+    {
+        "id": 44,
+        "name": "Caesar Sandwich",
+        "category": "Panini",
+        "price": "7.00"
+    },
+    {
+        "id": 45,
+        "name": "Grilled Chicken Bacon",
+        "category": "Panini",
+        "price": "7.00"
+    },
+    {
+        "id": 46,
+        "name": "Hamburger California",
+        "category": "Panini",
+        "price": "8.00"
+    },
+    {
+        "id": 47,
+        "name": "Hamburger Los Angeles",
+        "category": "Panini",
+        "price": "9.00"
+    },
+    {
+        "id": 48,
+        "name": "Hamburger Denver",
+        "category": "Panini",
+        "price": "9.00"
+    },
+    {
+        "id": 49,
+        "name": "Hamburger New York",
+        "category": "Panini",
+        "price": "10.00"
+    },
+    {
+        "id": 50,
+        "name": "Hamburger Bufaloso",
+        "category": "Panini",
+        "price": "10.00"
+    },
+    {
+        "id": 51,
+        "name": "Hamburger Rocky Mountain",
+        "category": "Panini",
+        "price": "10.00"
+    },
+    {
+        "id": 52,
+        "name": "Burger Pistacchiosa",
+        "category": "Panini",
+        "price": "10.00"
+    },
+    {
+        "id": 53,
+        "name": "Margherita",
+        "category": "Pizze",
+        "price": "6.00"
+    },
+    {
+        "id": 54,
+        "name": "Romana",
+        "category": "Pizze",
+        "price": "6.50"
+    },
+    {
+        "id": 55,
+        "name": "Napoli",
+        "category": "Pizze",
+        "price": "6.50"
+    },
+    {
+        "id": 56,
+        "name": "Faccia Di Vecchia",
+        "category": "Pizze",
+        "price": "6.50"
+    },
+    {
+        "id": 57,
+        "name": "Rustichella",
+        "category": "Pizze",
+        "price": "6.50"
+    },
+    {
+        "id": 58,
+        "name": "Americana",
+        "category": "Pizze",
+        "price": "7.50"
+    },
+    {
+        "id": 59,
+        "name": "Parmigiana",
+        "category": "Pizze",
+        "price": "7.50"
+    },
+    {
+        "id": 60,
+        "name": "Vegetariana",
+        "category": "Pizze",
+        "price": "7.50"
+    },
+    {
+        "id": 61,
+        "name": "4 Formaggi",
+        "category": "Pizze",
+        "price": "7.50"
+    },
+    {
+        "id": 62,
+        "name": "4 Gusti",
+        "category": "Pizze",
+        "price": "7.50"
+    },
+    {
+        "id": 63,
+        "name": "Frutti Di Mare",
+        "category": "Pizze",
+        "price": "14.00"
+    },
+    {
+        "id": 64,
+        "name": "Capricciosa",
+        "category": "Pizze",
+        "price": "8.50"
+    },
+    {
+        "id": 65,
+        "name": "San Daniele",
+        "category": "Pizze",
+        "price": "9.00"
+    },
+    {
+        "id": 66,
+        "name": "BBQ Chicken",
+        "category": "Pizze",
+        "price": "9.00"
+    },
+    {
+        "id": 67,
+        "name": "Chicken Ranch",
+        "category": "Pizze",
+        "price": "9.00"
+    },
+    {
+        "id": 68,
+        "name": "Pizza Kebab",
+        "category": "Pizze",
+        "price": "9.00"
+    },
+    {
+        "id": 69,
+        "name": "Calzone",
+        "category": "Pizze",
+        "price": "7.00"
+    },
+    {
+        "id": 70,
+        "name": "Calzone Rustico",
+        "category": "Pizze",
+        "price": "8.00"
+    },
+    {
+        "id": 71,
+        "name": "Schiacciata",
+        "category": "Pizze",
+        "price": "7.00"
+    },
+    {
+        "id": 72,
+        "name": "Contadina",
+        "category": "Pizze",
+        "price": "8.50"
+    },
+    {
+        "id": 73,
+        "name": "Nostromo",
+        "category": "Pizze",
+        "price": "7.50"
+    },
+    {
+        "id": 74,
+        "name": "Max",
+        "category": "Bufala",
+        "price": "10.00"
+    },
+    {
+        "id": 75,
+        "name": "Bufala",
+        "category": "Bufala",
+        "price": "8.00"
+    },
+    {
+        "id": 76,
+        "name": "Bufalina",
+        "category": "Bufala",
+        "price": "8.00"
+    },
+    {
+        "id": 77,
+        "name": "Funghi Porcini",
+        "category": "Bufala",
+        "price": "9.00"
+    },
+    {
+        "id": 78,
+        "name": "Stracchilandia",
+        "category": "Bufala",
+        "price": "9.00"
+    },
+    {
+        "id": 79,
+        "name": "Friarielli",
+        "category": "Bufala",
+        "price": "9.00"
+    }
+]

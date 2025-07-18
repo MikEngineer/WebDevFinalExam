@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Pizzeria Bella Napoli - Scopri il nostro menù, lo staff, e ordina la tua pizza preferita.">
+    <meta name="keywords" content="pizza, pizzeria, menù, menu, ristorante, Stop & Go, Stop and go, cucina italiana">
+    <meta name="author" content="Michelangelo">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="Pizzeria Stop & Go - Info">
+    <meta property="og:description" content="Contattaci o vieni a trovarci a Carini!">
+    <meta property="og:image" content="https://picsum.photos/300?15">
+    <meta property="og:url" content="https://pizzeriastopandgo.it/info">
+    <title>Info & Contatti</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- NAVBAR -->
+    <nav id="navbar">
+        <ul id="navbar-ul">
+            <li>
+                <a href="/index.html">Home</a>
+            </li>
+            <li>
+                <a href="/menu.html">Menu</a>
+            </li>
+            <li>
+                <a href="/info.html">Info & Contatti</a>
+            </li>
+            <li>
+                <a href="/staff.html">Staff</a>
+            </li>
+            <li>
+                <a href="/login.html" id="login-link">Login</a>
+            </li>
+            <li>
+                <img src="not-logged.jpg" alt="immagine del profilo" id="navbar-img">
+            </li>
+        </ul>
+    </nav>
+
+    <!-- SIDEBAR -->
+    <nav id="sidebar">
+        <ul id="sidebar-ul">
+            <li>
+                <a href="/index.html">Home</a>
+            </li>
+            <li>
+                <a href="/menu.html">Menu</a>
+            </li>
+            <li>
+                <a href="/info.html">Info & Contatti</a>
+            </li>
+            <li>
+                <a href="/staff.html">Staff</a>
+            </li>
+            <li>
+                <a href="/login.html" id="login-link-side">Login</a>
+            </li>
+        </ul>
+    </nav>
+
+    <header>
+        <h1 id="title">Info utili & Contatti</h1>
+    </header>
+
+    <main>
+        <!-- FORM -->
+        <section id="booking-section">
+            <h2>Prenota un tavolo</h2>
+            <form action="" id="booking-form">
+                <label for="name">Nome*</label>
+                <input placeholder="Mario" type="text" id="name" name="name" required>
+                <p id="name-error"></p>
+                <label for="surname">Cognome*</label>
+                <input placeholder="Rossi" type="text" id="surname" name="surname" required>
+                <p id="surname-error"></p>
+                <label for="email">E-mail*</label>
+                <input placeholder="mario.rossi@email.it" type="email" id="email" name="email" required>
+                <p id="mail-error"></p>
+                <label for="phone">Cellulare*</label>
+                <input placeholder="3290000000" type="number" id="phone" name="phone" required>
+                <p id="phone-error"></p>
+                <label for="guests">Numero di ospiti*</label>
+                <input type="number" min="1" max="10" id="guests" name="guests" required>
+                <label for="message">Richieste speciali</label>
+                <textarea name="message" id="message" placeholder="Vorrei un tavolo all'esterno..."></textarea>
+                <p id="message-error"></p>
+                <div id="btn-div">
+                    <button type="submit" id="form-btn">Invia</button>
+                </div>
+            </form>
+        </section>
+
+        <!-- CONTATTI -->
+        <section id="contacts-section">
+            <h2>Contatti</h2>
+            <a href="tel:+393276864143">
+                <button class="contact-btn">
+                    Chiamaci
+                </button>
+            </a>
+            <a href="mailto:s00017824@epicode.edu.mt">
+                <button class="contact-btn">
+                   Scrivici una mail 
+                </button>
+            </a>
+            <a href="https://maps.app.goo.gl/8Qkkvg27BDNUBpuu6" target="_blank">
+                <button class="contact-btn">
+                    Vieni a trovarci
+                </button>
+            </a>
+        </section>
+
+        <!-- METEO -->
+        <section id="weather-section">
+            <div id="weather-title">
+                <h2 id="city"></h2>
+                <h3>Vuoi sapere come vestirti per venire da noi? Consulta subito le previsioni per non essere colto alla sprovvista!</h3>
+            </div>
+            <div id="weather-info">
+                <div id="temp" class="weather-details">
+                    
+                </div>
+                <div id="conditions" class="weather-details">
+                    
+                </div>
+                <div id="wind" class="weather-details">
+                    
+                </div>
+            </div>
+        </section>
+    </main>
+    
+    <!-- FOOTER -->
+    <footer>
+        <ul>
+            <li>
+                <a href="">Copyright</a>
+            </li>
+            <li>
+                <a href="">Cookies Policy</a>
+            </li>
+            <li>
+                <a href="">P. IVA 341516521625</a>
+            </li>
+            <li>
+                <a href="tel:+390918670000">Telefono: +390918670000</a>
+            </li>
+            <li>
+                <a href="mailto:s00017824@epicode.edu.mt">E-mail: example@mail.info</a>
+            </li>
+        </ul>
+    </footer>
+    
+
+
+    <script src="info.js"></script>
+</body>
+</html>
